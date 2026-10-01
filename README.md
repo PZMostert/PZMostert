@@ -12,8 +12,8 @@ define the requirements and logic, then test, debug and deploy.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [BudgetIQ](link) | South African personal finance web app: bank statement parsing, auto-categorisation, budget and savings tools (Free and Pro tiers) | <fill in> |
-| [Trading Bot](link) | Python paper-trading bot with EMA/RSI/MACD signal logic on the Alpaca API | Python, pandas, Alpaca |
+| [BudgetIQ](https://github.com/PZMostert/BudgetIQ.git) | South African personal finance web app: bank statement parsing, auto-categorisation, budget and savings tools (Free and Pro tiers) | <fill in> |
+| [Trading Bot]() | Python paper-trading bot with EMA/RSI/MACD signal logic on the Alpaca API | Python, pandas, Alpaca |
 
 More coming: systems analysis documentation and data projects.
 
