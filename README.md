@@ -14,8 +14,9 @@ define the requirements and logic, then test, debug and deploy.
 |---|---|---|
 | [BudgetIQ](https://github.com/PZMostert/BudgetIQ) | South African personal finance web app: bank statement parsing (FNB, Discovery), bilingual auto-categorisation, budgeting and AI insights (Free and Pro tiers) | Supabase, Vercel, PWA, Anthropic API |
 | [BudgetIQ Power BI Dashboard](https://github.com/PZMostert/BudgetIQ-PowerBI-dashboard) | 3-page dashboard on synthetic spending data: income vs spend, budget vs actual, anomaly detection | Power BI, DAX, Power Query |
+| [Trading Agent](https://github.com/PZMostert/trading-agent) | Rule-based momentum screener for S&P 500 stocks, with a paper-trading bot (Alpaca, no real money) and a Pine Script generator. Built with AI from my requirements and rules. Work in progress, no backtest results yet | Python, pandas, Alpaca API, yfinance, Flask, Ollama |
 
-More coming: a Python paper-trading bot and systems analysis documentation.
+More coming: systems analysis documentation.
 
 ## Skills
 Requirements gathering · UML / DFD · SQL · Python · Supabase · Excel · Power BI · Agile/Scrum · Git
